@@ -40,7 +40,7 @@ export default function PaginaInicial() {
 
   return (
     <>
-      <Box
+        <Box
         styleSheet={{
           display: "flex",
           alignItems: "center",
